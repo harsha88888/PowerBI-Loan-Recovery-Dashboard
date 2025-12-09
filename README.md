@@ -1,12 +1,3 @@
-Perfect! 🎉
-Now let’s create a **professional README.md** for your Power BI Dashboard project.
-This README will impress companies—clear, structured, and ATS-friendly.
-
----
-
-# ✅ **Copy & Paste This README.md Into Your GitHub**
-
----
 
 # 📊 **Power BI – Loan Recovery Dashboard**
 
